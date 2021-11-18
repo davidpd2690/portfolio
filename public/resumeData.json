@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"David Pérez Daher",
+    "description":"My experience in software development ranges from automotive systems to automation tools and chatbots.",
+    "image":"profilepic.jpg",
+    "bio":"I am a computer systems engineer from Guadalajara, Mexico. I love dogs, music, playing guitar, and of course, software development. I am currently sharpening my React skills to steer my career path towards front-end development.",
+    "contactmessage":"",
+    "email": "david.pd2690@gmail.com",
+    "phone": "+52 331 799 9208",
+    "github":"https://github.com/davidpd2690",
+    "project":"https://www.linkedin.com/in/david-perez-daher/",
+    "address":{
+      "city":"Guadalajara",
+      "state":"Jalisco",
+      "zip": "México"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/david-perez-daher/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/davidpd2690",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"ITESO",
+        "degree":"Computer Systems Engineering",
+        "graduated":"2015 - 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Inflexxtion",
+        "title":"A. I. Knowledge Base Specialist",
+        "years":"Apr 2021 – Oct 2021",
+        "description":"Formed part of a multinational SaaS startup that developed a virtual assistant and product supply/value chain platform. I created customized knowledge bases leveraging an artificial intelligence platform that was part of the conversational service of the virtual assistant. I reported, monitored, and managed issues through JIRA."
+      },
+      {
+        "company":"Bayer Crop Science",
+        "title":"Software/Data Engineer",
+        "years":"Sep 2020 – Apr 2021",
+        "description":"Software development and data engineering for the crop science division of Bayer. I revamped the purchasing and acquisition process from a manual form to a fully-fledged application with a dashboard, approval system and notifications. I also gathered data on agricultural operations to create seasonal forecasts."
+      },
+      {
+        "company":"Continental Automotive Group",
+        "title":"Software Quality Manager",
+        "years":"Jun 2018 – Sep 2020",
+        "description":"Software QA auditing and process automation for advanced driving assistance systems. I evaluated function, performance, and design compliance of software systems against ASPICE quality standards and customer needs. I Developed automation scripts for QA processes, gathered data on software issues and reported findings and recommendations."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }
+    ]
+  },
+  "skills":{
+    "skillmessage":"",
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"75%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"C",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "dogs": [
+      {
+        "title":"Darwin",
+        "category":"",
+        "image":"Darwin.jpeg",
+        "url":""
+      },
+      {
+        "title":"Ziggy",
+        "category":"",
+        "image":"Ziggy.jpeg",
+        "url":""
+      },
+      {
+        "title":"Moreton",
+        "category":"",
+        "image":"Moreton.jpeg",
+        "url":""
+      }
+    ]
+  }
+}
